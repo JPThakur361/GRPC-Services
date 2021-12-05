@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "AbFKpfnChHGPKhhs/jUqOkRz70+9v0kB3ZsyWQ+LO8YmrSqjOB82da8TrAMDz79oL++WLnfMRCenzKC9yxfCpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\js108\\source\\repos\\sqrt\\client\\client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\js108\\.nuget\\packages\\google.protobuf\\3.19.1\\google.protobuf.3.19.1.nupkg.sha512",
+    "C:\\Users\\js108\\.nuget\\packages\\grpc\\2.42.0\\grpc.2.42.0.nupkg.sha512",
+    "C:\\Users\\js108\\.nuget\\packages\\grpc.core\\2.42.0\\grpc.core.2.42.0.nupkg.sha512",
+    "C:\\Users\\js108\\.nuget\\packages\\grpc.core.api\\2.42.0\\grpc.core.api.2.42.0.nupkg.sha512",
+    "C:\\Users\\js108\\.nuget\\packages\\grpc.tools\\2.42.0\\grpc.tools.2.42.0.nupkg.sha512",
+    "C:\\Users\\js108\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\js108\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\js108\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\js108\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
